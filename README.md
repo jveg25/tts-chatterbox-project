@@ -61,4 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 The underlying Chatterbox model is open-sourced by Resemble AI. Please refer to their repository for specific model licensing.
 
 ---
-Developed with ❤️ by [Your Name/GitHub Handle]
+Developed with ❤️ by [Jesús Vega](https://github.com/jveg25)
