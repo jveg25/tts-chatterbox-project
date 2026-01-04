@@ -112,7 +112,7 @@ with gr.Blocks(title="Chatterbox TTS Studio") as demo:
             with gr.Accordion("Parameters", open=False):
                 exagg = gr.Slider(minimum=0.0, maximum=1.0, value=0.5, step=0.1, label="Exaggeration")
                 cfg = gr.Slider(minimum=0.0, maximum=1.0, value=0.5, step=0.1, label="CFG / Pacing")
-                lang = gr.Dropdown(choices=["en", "es", "fr", "de", "it", "jp", "zh"], value="en", label="Language")
+                lang = gr.Dropdown(choices=["en", "es", "fr", "de", "it", "ja", "zh", "pt", "ru", "sw"], value="en", label="Language")
                 fmt = gr.Radio(choices=["wav", "mp3"], value="wav", label="Output Format")
                 
             generate_btn = gr.Button("Generate Speech", variant="primary")
