@@ -1,5 +1,8 @@
 # 🎙️ Chatterbox TTS Studio
 
+![Interface del Proyecto](assets/UI_del_proyecto.png)
+![Modelo Chatterbox](assets/modelo_usado.png)
+
 Chatterbox TTS Studio is a powerful, local Text-to-Speech (TTS) application built using Resemble AI's **Chatterbox-Turbo** model. It features a modern **Gradio** interface designed for high-quality speech synthesis, zero-shot voice cloning, and batch processing.
 
 ## ✨ Key Features
