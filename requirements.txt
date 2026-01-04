@@ -1,0 +1,7 @@
+gradio
+git+https://github.com/resemble-ai/chatterbox.git
+torch
+pydub
+numpy
+soundfile
+python-dotenv
